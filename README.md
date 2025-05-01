@@ -2,6 +2,13 @@
 
 このリポジトリには、JetBrains IntelliJ プラグイン開発ドキュメントを取得し、PDF に変換して、単一の PDF ファイルに結合するスクリプトが含まれています。
 
+なお、このリポジトリのコードはすべて JetBrains Junie により作成されました。
+
+## 関連Blog
+
+[JetBrains Junie が「Web上のドキュメントをpdf化するPythonスクリプト」を設計・実装する様子をメモしてみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2025/05/01/190557)
+
+
 ## 機能
 
 1. サイトマップから URL を抽出
